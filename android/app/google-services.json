@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897960095466",
+    "firebase_url": "",
+    "project_id": "hhcom-9c798",
+    "storage_bucket": "hhcom-9c798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897960095466:android:465521f2e81b4e3a557193",
+        "android_client_info": {
+          "package_name": "com.example.hhcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897960095466-tch3f45t0spht7jphp13140tlnjpgpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897960095466-tch3f45t0spht7jphp13140tlnjpgpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
